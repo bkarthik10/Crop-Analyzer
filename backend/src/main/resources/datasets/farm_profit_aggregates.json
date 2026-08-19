@@ -1,0 +1,122 @@
+[
+  {
+    "crop": "cotton",
+    "recordCount": 1668,
+    "avgYieldTonPerHectare": 2.485,
+    "avgAreaHectare": 6.41,
+    "avgSeedCostINR": 25557.19,
+    "avgFertilizerCostINR": 38548.78,
+    "avgPesticideCostINR": 15905.81,
+    "avgLaborCostINR": 64431.62,
+    "avgIrrigationCostINR": 32521.57,
+    "avgTotalCostINR": 176964.97,
+    "avgRevenueINR": 874016.94,
+    "avgNetProfitINR": 697051.97,
+    "avgROIPercent": 405.56,
+    "commonSeasons": [
+      "Rabi",
+      "Kharif",
+      "Zaid"
+    ]
+  },
+  {
+    "crop": "maize",
+    "recordCount": 1590,
+    "avgYieldTonPerHectare": 5.206,
+    "avgAreaHectare": 6.25,
+    "avgSeedCostINR": 24984.45,
+    "avgFertilizerCostINR": 37698.8,
+    "avgPesticideCostINR": 15613.94,
+    "avgLaborCostINR": 63519.36,
+    "avgIrrigationCostINR": 31154.95,
+    "avgTotalCostINR": 172971.51,
+    "avgRevenueINR": 584742.34,
+    "avgNetProfitINR": 411770.83,
+    "avgROIPercent": 246.67,
+    "commonSeasons": [
+      "Zaid",
+      "Rabi",
+      "Kharif"
+    ]
+  },
+  {
+    "crop": "potato",
+    "recordCount": 1656,
+    "avgYieldTonPerHectare": 19.981,
+    "avgAreaHectare": 6.4,
+    "avgSeedCostINR": 25491.47,
+    "avgFertilizerCostINR": 38646.77,
+    "avgPesticideCostINR": 16115.57,
+    "avgLaborCostINR": 63354.82,
+    "avgIrrigationCostINR": 31909.76,
+    "avgTotalCostINR": 175518.39,
+    "avgRevenueINR": 1535064.71,
+    "avgNetProfitINR": 1359546.32,
+    "avgROIPercent": 795.02,
+    "commonSeasons": [
+      "Kharif",
+      "Zaid",
+      "Rabi"
+    ]
+  },
+  {
+    "crop": "rice",
+    "recordCount": 1684,
+    "avgYieldTonPerHectare": 4.504,
+    "avgAreaHectare": 6.28,
+    "avgSeedCostINR": 25100.26,
+    "avgFertilizerCostINR": 37128.24,
+    "avgPesticideCostINR": 15802.77,
+    "avgLaborCostINR": 63045.53,
+    "avgIrrigationCostINR": 31067.9,
+    "avgTotalCostINR": 172144.69,
+    "avgRevenueINR": 620836.86,
+    "avgNetProfitINR": 448692.18,
+    "avgROIPercent": 269.97,
+    "commonSeasons": [
+      "Zaid",
+      "Rabi",
+      "Kharif"
+    ]
+  },
+  {
+    "crop": "sugarcane",
+    "recordCount": 1706,
+    "avgYieldTonPerHectare": 69.987,
+    "avgAreaHectare": 6.24,
+    "avgSeedCostINR": 25105.81,
+    "avgFertilizerCostINR": 37234.55,
+    "avgPesticideCostINR": 15674.33,
+    "avgLaborCostINR": 61003.13,
+    "avgIrrigationCostINR": 30741.3,
+    "avgTotalCostINR": 169759.12,
+    "avgRevenueINR": 1527540.7,
+    "avgNetProfitINR": 1357781.57,
+    "avgROIPercent": 818.71,
+    "commonSeasons": [
+      "Rabi",
+      "Zaid",
+      "Kharif"
+    ]
+  },
+  {
+    "crop": "wheat",
+    "recordCount": 1696,
+    "avgYieldTonPerHectare": 3.789,
+    "avgAreaHectare": 6.26,
+    "avgSeedCostINR": 25193.01,
+    "avgFertilizerCostINR": 37784.04,
+    "avgPesticideCostINR": 15599.78,
+    "avgLaborCostINR": 62728.02,
+    "avgIrrigationCostINR": 30672.69,
+    "avgTotalCostINR": 171977.54,
+    "avgRevenueINR": 499307.69,
+    "avgNetProfitINR": 327330.15,
+    "avgROIPercent": 195.06,
+    "commonSeasons": [
+      "Zaid",
+      "Kharif",
+      "Rabi"
+    ]
+  }
+]

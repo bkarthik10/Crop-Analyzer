@@ -1,0 +1,10 @@
+{
+  "r2": 0.8762,
+  "mae": 1.39,
+  "rmse": 3.05,
+  "nEstimators": 80,
+  "maxDepth": 8,
+  "trainFields": 72,
+  "testFields": 18,
+  "testRows": 329
+}

@@ -1,0 +1,186 @@
+[
+  {
+    "crop": "banana",
+    "apyName": "Banana",
+    "avgYieldTonPerHectare": 29.052,
+    "avgAreaHectare": 1730.0,
+    "typicalSeason": "Whole Year",
+    "recordCount": 4140
+  },
+  {
+    "crop": "barley",
+    "apyName": "Barley",
+    "avgYieldTonPerHectare": 1.916,
+    "avgAreaHectare": 2544.1,
+    "typicalSeason": "Rabi",
+    "recordCount": 5891
+  },
+  {
+    "crop": "blackgram",
+    "apyName": "Urad",
+    "avgYieldTonPerHectare": 0.541,
+    "avgAreaHectare": 5065.7,
+    "typicalSeason": "Kharif",
+    "recordCount": 14581
+  },
+  {
+    "crop": "blackpepper",
+    "apyName": "Black pepper",
+    "avgYieldTonPerHectare": 1.003,
+    "avgAreaHectare": 3085.5,
+    "typicalSeason": "Whole Year",
+    "recordCount": 1417
+  },
+  {
+    "crop": "cardamom",
+    "apyName": "Cardamom",
+    "avgYieldTonPerHectare": 0.114,
+    "avgAreaHectare": 2275.1,
+    "typicalSeason": "Whole Year",
+    "recordCount": 575
+  },
+  {
+    "crop": "coriander",
+    "apyName": "Coriander",
+    "avgYieldTonPerHectare": 0.677,
+    "avgAreaHectare": 1654.2,
+    "typicalSeason": "Whole Year",
+    "recordCount": 5037
+  },
+  {
+    "crop": "cotton",
+    "apyName": "Cotton(lint)",
+    "avgYieldTonPerHectare": 2.111,
+    "avgAreaHectare": 35864.6,
+    "typicalSeason": "Kharif",
+    "recordCount": 6475
+  },
+  {
+    "crop": "garlic",
+    "apyName": "Garlic",
+    "avgYieldTonPerHectare": 4.245,
+    "avgAreaHectare": 710.0,
+    "typicalSeason": "Whole Year",
+    "recordCount": 5279
+  },
+  {
+    "crop": "horsegram",
+    "apyName": "Horse-gram",
+    "avgYieldTonPerHectare": 0.478,
+    "avgAreaHectare": 2246.4,
+    "typicalSeason": "Kharif",
+    "recordCount": 5424
+  },
+  {
+    "crop": "jowar",
+    "apyName": "Jowar",
+    "avgYieldTonPerHectare": 1.069,
+    "avgAreaHectare": 18285.6,
+    "typicalSeason": "Kharif",
+    "recordCount": 9769
+  },
+  {
+    "crop": "jute",
+    "apyName": "Jute",
+    "avgYieldTonPerHectare": 9.387,
+    "avgAreaHectare": 9484.7,
+    "typicalSeason": "Kharif",
+    "recordCount": 1913
+  },
+  {
+    "crop": "maize",
+    "apyName": "Maize",
+    "avgYieldTonPerHectare": 2.652,
+    "avgAreaHectare": 8802.2,
+    "typicalSeason": "Kharif",
+    "recordCount": 20513
+  },
+  {
+    "crop": "moong",
+    "apyName": "Moong(Green Gram)",
+    "avgYieldTonPerHectare": 0.495,
+    "avgAreaHectare": 5034.6,
+    "typicalSeason": "Kharif",
+    "recordCount": 15139
+  },
+  {
+    "crop": "onion",
+    "apyName": "Onion",
+    "avgYieldTonPerHectare": 13.179,
+    "avgAreaHectare": 928.0,
+    "typicalSeason": "Whole Year",
+    "recordCount": 10675
+  },
+  {
+    "crop": "potato",
+    "apyName": "Potato",
+    "avgYieldTonPerHectare": 13.149,
+    "avgAreaHectare": 2937.2,
+    "typicalSeason": "Whole Year",
+    "recordCount": 10756
+  },
+  {
+    "crop": "ragi",
+    "apyName": "Ragi",
+    "avgYieldTonPerHectare": 1.268,
+    "avgAreaHectare": 5368.4,
+    "typicalSeason": "Kharif",
+    "recordCount": 5757
+  },
+  {
+    "crop": "rapeseed",
+    "apyName": "Rapeseed &Mustard",
+    "avgYieldTonPerHectare": 0.824,
+    "avgAreaHectare": 11793.1,
+    "typicalSeason": "Rabi",
+    "recordCount": 11034
+  },
+  {
+    "crop": "rice",
+    "apyName": "Rice",
+    "avgYieldTonPerHectare": 2.098,
+    "avgAreaHectare": 46079.0,
+    "typicalSeason": "Kharif",
+    "recordCount": 21611
+  },
+  {
+    "crop": "soyabean",
+    "apyName": "Soyabean",
+    "avgYieldTonPerHectare": 1.059,
+    "avgAreaHectare": 40987.0,
+    "typicalSeason": "Kharif",
+    "recordCount": 4988
+  },
+  {
+    "crop": "sunflower",
+    "apyName": "Sunflower",
+    "avgYieldTonPerHectare": 0.947,
+    "avgAreaHectare": 3608.5,
+    "typicalSeason": "Kharif",
+    "recordCount": 7244
+  },
+  {
+    "crop": "sweetpotato",
+    "apyName": "Sweet potato",
+    "avgYieldTonPerHectare": 9.28,
+    "avgAreaHectare": 212.6,
+    "typicalSeason": "Whole Year",
+    "recordCount": 5742
+  },
+  {
+    "crop": "turmeric",
+    "apyName": "Turmeric",
+    "avgYieldTonPerHectare": 3.54,
+    "avgAreaHectare": 486.4,
+    "typicalSeason": "Whole Year",
+    "recordCount": 5607
+  },
+  {
+    "crop": "wheat",
+    "apyName": "Wheat",
+    "avgYieldTonPerHectare": 2.226,
+    "avgAreaHectare": 59223.8,
+    "typicalSeason": "Rabi",
+    "recordCount": 11220
+  }
+]

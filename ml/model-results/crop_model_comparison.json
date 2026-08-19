@@ -1,0 +1,46 @@
+[
+  {
+    "model": "Random Forest",
+    "accuracy": 94.0,
+    "precision": 0.9468,
+    "recall": 0.94,
+    "f1": 0.9211,
+    "deployed": true
+  },
+  {
+    "model": "Support Vector Machine",
+    "accuracy": 93.51,
+    "precision": 0.8942,
+    "recall": 0.9351,
+    "f1": 0.91,
+    "trainSeconds": 0.28,
+    "deployed": false
+  },
+  {
+    "model": "Logistic Regression",
+    "accuracy": 92.18,
+    "precision": 0.8738,
+    "recall": 0.9218,
+    "f1": 0.8932,
+    "trainSeconds": 0.24,
+    "deployed": false
+  },
+  {
+    "model": "Decision Tree",
+    "accuracy": 91.42,
+    "precision": 0.9164,
+    "recall": 0.9142,
+    "f1": 0.9147,
+    "trainSeconds": 0.01,
+    "deployed": false
+  },
+  {
+    "model": "Gradient Boosting (HistGB)",
+    "accuracy": 90.93,
+    "precision": 0.9062,
+    "recall": 0.9093,
+    "f1": 0.9076,
+    "trainSeconds": 5.34,
+    "deployed": false
+  }
+]

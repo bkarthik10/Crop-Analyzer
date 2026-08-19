@@ -1,0 +1,31 @@
+{
+  "soilTypes": [
+    "Black",
+    "Clayey",
+    "Loamy",
+    "Red",
+    "Sandy"
+  ],
+  "cropTypes": [
+    "Barley",
+    "Cotton",
+    "Ground Nuts",
+    "Maize",
+    "Millets",
+    "Oil seeds",
+    "Paddy",
+    "Pulses",
+    "Sugarcane",
+    "Tobacco",
+    "Wheat"
+  ],
+  "fertilizerNames": [
+    "10-26-26",
+    "14-35-14",
+    "17-17-17",
+    "20-20",
+    "28-28",
+    "DAP",
+    "Urea"
+  ]
+}

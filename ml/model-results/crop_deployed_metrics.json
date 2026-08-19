@@ -1,0 +1,10 @@
+{
+  "accuracy": 94.0,
+  "precision": 0.9468,
+  "recall": 0.94,
+  "f1": 0.9211,
+  "macroF1": 0.9493,
+  "nEstimators": 60,
+  "maxDepth": 10,
+  "testSize": 1433
+}

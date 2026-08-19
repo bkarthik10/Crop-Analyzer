@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ml"
+		},
+		{
+			"path": "../backend"
+		},
+		{
+			"path": "../database"
+		},
+		{
+			"path": "../docs"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
