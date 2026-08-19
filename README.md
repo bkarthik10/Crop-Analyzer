@@ -280,8 +280,8 @@ Provide `Dockerfile` and `docker-compose.yml` for containerized deployment.
 MIT License — see LICENSE file.
 
 ## Author
-**B Karthik** (karthikb.dev@gmail.com)  
-GitHub: [karthikb-dev](https://github.com/karthikb-dev)
+**B Karthik** (karthik7399@gmail.com)  
+GitHub: [karthikb-dev](https://github.com/karthik10)
 
 ---
 
